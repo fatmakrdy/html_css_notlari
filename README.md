@@ -1,7 +1,7 @@
 # html_css_notlari
 **Etiket:** öğeleri barındaran yapı görsel metinsel içerikleri barındırır
 <br>
->başlangıç ve bitiş eiketi vardır.iç içe etiket kullanımı da vardır.<br>>
+>başlangıç ve bitiş eiketi vardır.iç içe etiket kullanımı da vardır.<br>
 doctype etiketi: sayfanın html 5 ile oluşturulduğunu belirtir.<br>
 html etiketi: tüm ögeleri baarındırır.<br>
 title: sitenin sekme ismi.<br>
