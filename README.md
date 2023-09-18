@@ -1,7 +1,7 @@
 # HTML ve CSS Notları
 
 ## Etiketler
-HTML, görsel ve metinsel içerikleri tanımlayan etiketleri kullanır. Her etiket, bir başlangıç ve bitiş etiketi içerir ve bazıları iç içe kullanılabilir.
+HTML, görsel ve metinsel içerikleri tanımlayan etiketleri kullanır. Her etiket, bir başlangıç ve bitiş etiketi içerir(bazıları hariç) ve bazıları iç içe kullanılabilir.
 
 - `<html>`: Tüm HTML içeriğini sarmalar.
 - `<title>`: Sayfanın sekme başlığını belirtir.
@@ -16,7 +16,7 @@ HTML, görsel ve metinsel içerikleri tanımlayan etiketleri kullanır. Her etik
 
 ## Listeler
 HTML'de sırasız ve sıralı listeler kullanılabilir:
-Sırasız Liste:
+**Sırasız Liste:**
 ```
 <ul>
     <li>Öğe 1</li>
@@ -24,10 +24,11 @@ Sırasız Liste:
 </ul>
 ```
 
-Sıralı Liste:
+**Sıralı Liste:**
 ```
 <ol>
     <li>Öğe 1</li>
     <li>Öğe 2</li>
 </ol>
 ```
+- Listeyi hızlıca oluşturmak için kısayol:ol>li*5
