@@ -23,3 +23,10 @@ Sırasız Liste:
     <li>Öğe 1</li>
     <li>Öğe 2</li>
 </ul>
+
+Sıralı Liste:
+```html
+<ol>
+    <li>Öğe 1</li>
+    <li>Öğe 2</li>
+</ol>
