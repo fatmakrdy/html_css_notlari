@@ -16,8 +16,8 @@
 -hr etiketi:düz çizgi eklenir
 **Listeler:** <br>
 -Sırasız Listeler: 
-  '<ul>
+`<ul>
     <li>Lorem, ipsum dolor.</li>
     <li>Lorem, ipsum dolor.</li>
-   </ul>'
+   </ul>`
 -Sıralı Listeler: 
