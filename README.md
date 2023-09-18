@@ -34,9 +34,12 @@ HTML'de sırasız ve sıralı listeler kullanılabilir:<br>
 <br>
 - Start attribute ile listemin kaçla başlayacağını belirledik.
 - Type attribute ile listenin ne ile sıralanacağını belirledik.
-```<ol start="2" type="a">
+
+```
+<ol start="2" type="a">
     <li>Lorem, ipsum dolor.</li>
     <li>Lorem, ipsum dolor.</li>
-   </ol>```
+   </ol>
+```
    
 - Listeyi hızlıca oluşturmak için kısayol:ol>li*5
