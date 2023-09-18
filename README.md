@@ -32,7 +32,7 @@ HTML'de sırasız ve sıralı listeler kullanılabilir:<br>
 </ol>
 ```
 <br>
-- Start attribute ile listemin kaçla başlayacağını belirledik.
+- Start attribute ile listenin kaçla başlayacağını belirledik.<br>
 - Type attribute ile listenin ne ile sıralanacağını belirledik.
 
 ```
@@ -42,4 +42,8 @@ HTML'de sırasız ve sıralı listeler kullanılabilir:<br>
    </ol>
 ```
    
-- Listeyi hızlıca oluşturmak için kısayol:ol>li*5
+- Listeyi hızlıca oluşturmak için kısayol:ol>li*5<br>
+
+**img ekleme:**
+``` <img src="dizin ismi/dosya adı" alt="fotograf yüklenemezse gösterilecek" width="500" height="200">```<br>
+- Height kullanmak fotografın orantısı bozabilir.
