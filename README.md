@@ -13,15 +13,13 @@
 -b etiketi: kalın yazı tipi içi.n kullanılır.
 -strong etiketi: yazının önemli kısmı için kullanılır.
 -i etiketi: italik yazı tipi için kullanılır.
--hr etiketi:düz çizgi eklenir
+-hr etiketi:düz çizgi eklenir.<br>
 **Listeler:** <br>
 -Sırasız Listeler: <br>
 ```<ul>
     <li>Lorem, ipsum dolor.</li>
     <li>Lorem, ipsum dolor.</li>
-   </ul>```<br>
-
-
+   </ul>```<br><br>
 -Sıralı Listeler:<br>
 ```<ol>
     <li>Lorem, ipsum dolor.</li>
