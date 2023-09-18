@@ -1,27 +1,25 @@
-### html_css_notlari
-**Etiket:** öğeleri barındaran yapı görsel metinsel içerikleri barındırır.<br>
--Başlangıç ve bitiş etiketi vardır.İç içe etiket kullanımı da vardır.<br>
-**doctype:** Sayfanın html 5 ile oluşturulduğunu belirtir.<br>
-**html:** Tüm ögeleri barındırır.<br>
-**title:** Sitenin sekme ismi.<br>
-**body:** Sayfanın içeriğini barındırır.<br>
-**Başlık etiketleri:** h1 h2 h3 h4 h5 h6<br>
--Yazının boyutundan ziyade önem sırası için kullanılır. <br>
--Seo da en çok bakılan h1 kısmıdır. Yazının boyutunu css ile de ayarlayabiliriz. 
-**p etiketi:** Paragraf etiketi. Satır başı ve boşluk oluşturur.
-**Biçimlendirme etiketleri:**<br>
--b etiketi: kalın yazı tipi içi.n kullanılır.
--strong etiketi: yazının önemli kısmı için kullanılır.
--i etiketi: italik yazı tipi için kullanılır.
--hr etiketi:düz çizgi eklenir.<br>
-**Listeler:** <br>
--Sırasız Listeler: <br>
-```<ul>
-    <li>Lorem, ipsum dolor.</li>
-    <li>Lorem, ipsum dolor.</li>
-   </ul>```<br><br>
--Sıralı Listeler:<br>
-```<ol>
-    <li>Lorem, ipsum dolor.</li>
-    <li>Lorem, ipsum dolor.</li>
-   </ol>```<br>
+# HTML ve CSS Notları
+
+## Etiketler
+HTML, görsel ve metinsel içerikleri tanımlayan etiketleri kullanır. Her etiket, bir başlangıç ve bitiş etiketi içerir ve bazıları iç içe kullanılabilir.
+
+- `<html>`: Tüm HTML içeriğini sarmalar.
+- `<title>`: Sayfanın sekme başlığını belirtir.
+- `<body>`: Sayfanın görüntülenen içeriğini barındırır.
+- Başlık etiketleri: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>` - Metin başlıkları için kullanılır ve önem sıralarını belirtir.
+- `<p>`: Paragraf etiketi, metinleri düzenler ve satır başı ekler.
+- Biçimlendirme etiketleri:
+  - `<b>`: Kalın yazı tipini uygular.
+  - `<strong>`: Metnin önemli olduğunu belirtir.
+  - `<i>`: İtalik yazı tipini uygular.
+- `<hr>`: Yatay çizgi ekler.
+
+## Listeler
+HTML'de sırasız ve sıralı listeler kullanılabilir:
+
+Sırasız Liste:
+```html
+<ul>
+    <li>Öğe 1</li>
+    <li>Öğe 2</li>
+</ul>
