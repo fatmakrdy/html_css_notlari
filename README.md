@@ -16,17 +16,18 @@ HTML, görsel ve metinsel içerikleri tanımlayan etiketleri kullanır. Her etik
 
 ## Listeler
 HTML'de sırasız ve sıralı listeler kullanılabilir:
-
 Sırasız Liste:
-```html
+```
 <ul>
     <li>Öğe 1</li>
     <li>Öğe 2</li>
 </ul>
-```html
-Sıralı Liste:
+```
 
+Sıralı Liste:
+```
 <ol>
     <li>Öğe 1</li>
     <li>Öğe 2</li>
 </ol>
+```
