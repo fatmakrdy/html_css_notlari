@@ -15,7 +15,7 @@ HTML, görsel ve metinsel içerikleri tanımlayan etiketleri kullanır. Her etik
 - `<hr>`: Yatay çizgi ekler.
 
 ## Listeler
-HTML'de sırasız ve sıralı listeler kullanılabilir:
+HTML'de sırasız ve sıralı listeler kullanılabilir:<br>
 **Sırasız Liste:**
 ```
 <ul>
@@ -31,4 +31,12 @@ HTML'de sırasız ve sıralı listeler kullanılabilir:
     <li>Öğe 2</li>
 </ol>
 ```
+<br>
+- Start attribute ile listemin kaçla başlayacağını belirledik.
+- Type attribute ile listenin ne ile sıralanacağını belirledik.
+```<ol start="2" type="a">
+    <li>Lorem, ipsum dolor.</li>
+    <li>Lorem, ipsum dolor.</li>
+   </ol>```
+   
 - Listeyi hızlıca oluşturmak için kısayol:ol>li*5
