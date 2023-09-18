@@ -23,9 +23,9 @@ Sırasız Liste:
     <li>Öğe 1</li>
     <li>Öğe 2</li>
 </ul>
-
-Sıralı Liste:
 ```html
+Sıralı Liste:
+
 <ol>
     <li>Öğe 1</li>
     <li>Öğe 2</li>
