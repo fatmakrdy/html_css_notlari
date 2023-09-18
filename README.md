@@ -15,9 +15,13 @@
 -i etiketi: italik yazı tipi için kullanılır.
 -hr etiketi:düz çizgi eklenir
 **Listeler:** <br>
--Sırasız Listeler: 
+-Sırasız Listeler: <br>
 ```<ul>
     <li>Lorem, ipsum dolor.</li>
     <li>Lorem, ipsum dolor.</li>
-   </ul>```
--Sıralı Listeler: 
+   </ul>```<br>
+-Sıralı Listeler:<br>
+```<ol>
+    <li>Lorem, ipsum dolor.</li>
+    <li>Lorem, ipsum dolor.</li>
+   </ol>```<br>
