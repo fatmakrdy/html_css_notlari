@@ -45,5 +45,8 @@ HTML'de sırasız ve sıralı listeler kullanılabilir:<br>
 -Listeyi hızlıca oluşturmak için kısayol:ol>li*5<br>
 
 **img ekleme:**
+- yerel img yükleme:
 ``` <img src="dizin ismi/dosya adı" alt="fotograf yüklenemezse gösterilecek" width="500" height="200">```<br>
+- internetten img yükleme:
+```<img src="resim bağlantısı" >```
 - Height kullanmak fotografın orantısı bozabilir.
