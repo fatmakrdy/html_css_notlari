@@ -42,7 +42,7 @@ HTML'de sırasız ve sıralı listeler kullanılabilir:<br>
    </ol>
 ```
    
-- Listeyi hızlıca oluşturmak için kısayol:ol>li*5<br>
+-Listeyi hızlıca oluşturmak için kısayol:ol>li*5<br>
 
 **img ekleme:**
 ``` <img src="dizin ismi/dosya adı" alt="fotograf yüklenemezse gösterilecek" width="500" height="200">```<br>
