@@ -50,3 +50,28 @@ HTML'de sırasız ve sıralı listeler kullanılabilir:<br>
 - internetten img yükleme:
 ```<img src="resim bağlantısı" >```
 - Height kullanmak fotografın orantısı bozabilir.
+
+**form oluşturma**
+- type ile inputun nasıl olacağını belirledik.<br>
+- Name ile gruplandırma yaptık inputla gelen veriler  server a bu isimlerle yüklenirler.<br>
+- Cinsiyet ksımında name vererek kullanıcının tek seçim yapmasını sağladık.Bu şekilde kullanım radio type ında oldu chechkbox da kullanıcı birden fazla seçim yapabilir.<br>
+ ``` <form action="">
+        <p>Ad:<input type="text" name="ad"></p>
+        <p>Email: <input type="email" name="email"></p>
+        <p>Şifre: <input type="password" name="sifre"></p>
+        <p>Şifreyi hatırla <input type="checkbox" name="parolahatirla"></p>
+        <p>Cinsiyet:
+            K<input type="radio" name="cinsiyet">
+            E <input type="radio" name="cinsiyet">
+        </p>
+    </form>```
+- select ile seçim inputu ekledik.
+```
+<p>
+            Doğum Yeri: <br>
+            <select multiple="dogumyeri" >
+                <option value="izmir"></option>
+                <option value="ankara"></option>
+                <option value="konya"></option>
+            </select>
+        </p>```
