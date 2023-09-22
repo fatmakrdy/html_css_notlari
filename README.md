@@ -64,7 +64,8 @@ HTML'de sırasız ve sıralı listeler kullanılabilir:<br>
             K<input type="radio" name="cinsiyet">
             E <input type="radio" name="cinsiyet">
         </p>
-    </form>```
+    </form>
+```
 - select ile seçim inputu ekledik.
 ```
 <p>
@@ -74,4 +75,6 @@ HTML'de sırasız ve sıralı listeler kullanılabilir:<br>
                 <option value="ankara"></option>
                 <option value="konya"></option>
             </select>
-        </p>```
+        </p>
+```
+
